@@ -18,5 +18,5 @@ Step 6:  ```mvn spring-boot:run```
 Step 7: From the browser call the endpoint http://localhost:9080
 
 Step 8: Admin Login User Id: ```admin@admin.in``` & Password: ```Temp123```
-
+java -jar target/librarymanagementsystem-0.0.1-SNAPSHOT.jar
 
