@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-username/library-management.git' // Replace with your repo URL
+                git 'https://github.com/kavinnath-22CSR094/library-management.git' // Replace with your repo URL
             }
         }
 
